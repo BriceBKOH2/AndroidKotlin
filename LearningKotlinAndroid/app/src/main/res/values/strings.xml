@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Learning Kotlin Android</string>
+    <string name="Hello">Bonjour</string>
+    <string name="Password">password</string>
+    <string name="CheckBox_GeneralCondition">Accepte les conditions générales</string>
+    <string name="Switch_EnergySaving">Activer le mode economie d\'énergie</string>
+    <string name="Submit">Valider</string>
+    <string name="BannerPhoto">Photo Gallery</string>
+    <string name="PhotoSyngapore">Syngapore city at night</string>
+    <string name="SyngaporeTitle">Syngapore</string>
+    <string name="cameraTitle">Camera</string>
+    <string name="cameraContent">Leica M Typ 240</string>
+    <string name="settingsTitle">Settings</string>
+    <string name="settingsContent">ƒ/4 16s ISO 200</string>
+    <string name="syngaporeDescription">Singapore, officially the Republic of Singapore, is a sovereign city-state and island country located in maritime Southeast Asia. Singapore lies about one degree (137 kilometres or 85 miles) north of the equator, and is situated off the southern tip of the Malay Peninsula, and, by extension, the southernmost extremity of continental Eurasia. The island country shares its southern maritime border with Indonesia\'s Riau Islands, its northern, western, and eastern maritime borders with the Johor state of Peninsular Malaysia, and is in the vicinity of Sumatra to its west and Borneo to its east. It is enveloped by the littoral waters of the Johore Strait to its north and the Singapore Strait to its south, and is geographically positioned within the confluence of the Indian and Pacific Oceans, being bounded by the Malacca Strait to its west and the South China Sea to its east.</string>
+    <string name="buttonUpload">Upload</string>
+    <string name="buttonDiscard">Discard</string>
+    <string name="imgStar">star green</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="nocturneMode">mode nocture</string>
+    <string name="volunteer">Je suis volontaire</string>
+    <string name="Ok">Ok</string>
+    <string name="Home">Page principal</string>
+    <string name="BtnHome">Acceuil</string>
+    <string name="BtnNews">News</string>
+    <string name="BtnSettings">Config</string>
+    <string name="BtnAbout">Info</string>
+    <string name="FrgAboutBody">ABOUT</string>
+    <string name="FrgHomeBoy">HOME</string>
+    <string name="FrgNewsBody">NEWS</string>
+    <string name="FrgSettingsBody">SETTINGS</string>
+    <string name="title">Title</string>
+    <string name="year">Year</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+
+</resources>
